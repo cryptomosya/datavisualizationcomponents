@@ -1,6 +1,6 @@
 {
   "name": "datavisualizationcomponents",
-  "version": "1.0.0", 
+  "version": "1.0.1",
   "description": "",
   "main": "./src/index.js",
   "scripts": {
@@ -8,12 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cryptomosya/datavisualizationcomponents.git" 
+    "url": "https://github.com/cryptomosya/datavisualizationcomponents.git"
   },
   "keywords": [
-    "", 
+    "",
     "",
     ""
   ],
-  "author": ""
+  "author": "",
+  "dependencies": {
+    "mishartcl": "^1.0.5"
+  }
 }
